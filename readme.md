@@ -22,3 +22,6 @@ What would make your model be better at prediciting new exoplanets?
 
 * Try a simple model first, and then tune the model using `GridSearch`.
 
+
+
+use df.corr 
