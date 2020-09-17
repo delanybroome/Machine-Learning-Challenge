@@ -24,4 +24,5 @@ What would make your model be better at prediciting new exoplanets?
 
 
 
-use df.corr 
+--use df.corr 
+--encode y 
